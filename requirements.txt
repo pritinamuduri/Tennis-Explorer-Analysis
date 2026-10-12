@@ -4,4 +4,7 @@ requests
 mysql-connector-python
 sqlalchemy
 plotly
+sqlalchemy
+pymysql
+cryptography
 
